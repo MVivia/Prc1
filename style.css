@@ -1,0 +1,25 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: linear-gradient(to right, #1eff00, #0648ee);
+    text-align: center;
+}
+
+#container{
+margin: 50px;
+padding: 20px;
+background-color: aquamarine;
+border-radius: 50px;
+}
+
+h1{
+    color: deeppink;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+div{
+    margin-top: 20px;
+    padding: 20px;
+    border: 20px solid #1eff00;
+    border-radius: 10px;
+}
